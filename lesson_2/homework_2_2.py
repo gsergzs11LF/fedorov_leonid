@@ -48,7 +48,7 @@ print('apple > banana: ', a1 > b1)
 print('apple >= banana: ', a1 >= b1)
 print('apple <= banana: ', a1 <= b1)
 
-#задание 8
+#задание 8!
 print(ord("А"))
 print(ord("а"))
 print(ord("Я"))
