@@ -64,6 +64,6 @@ print(type(city))
 print(type(population))
 print(type(year_of_foundation))
 переменная = 10
-print(переменная) #работает!
+print(переменная) #работает!!
 
 
