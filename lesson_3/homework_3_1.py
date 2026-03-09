@@ -1,5 +1,4 @@
 # задание 1
-from Lesson_1.homework_1_1 import age
 
 print('Привет, мир!')
 print(5, 10, 15)
