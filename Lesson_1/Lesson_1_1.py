@@ -8,9 +8,9 @@ a, b = 8, 10.89
 print(type(b))
 
 
-a = b = 4
-c, d = 5, 6
-print(id(a))
-print(id(b))
-print(id(c))
-print(id(d))
+# a = b = 4
+# c, d = 5, 6
+# print(id(a))
+# print(id(b))
+# print(id(c))
+# print(id(d))
