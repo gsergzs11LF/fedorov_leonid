@@ -170,3 +170,4 @@ while True: # бесконечный цикл так как мы не знаем
     if num > max_number:
         max_number = num
 print('Самое большое число: ', max_number)
+#

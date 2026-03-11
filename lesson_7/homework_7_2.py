@@ -49,3 +49,4 @@ b = int(input('Введи число 2: '))
 k = int(input('Введи число 3: '))
 for i in range(a, b + 1, k):
     print(i)
+#
